@@ -1,0 +1,7 @@
+{
+  "properties": {
+    "runtimeOptions": {
+      "DSharpPlus.Trance.EnableInboundGatewayLogging": true
+    }
+  }
+}
